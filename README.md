@@ -3,7 +3,7 @@
 
 ## Overview
 
-This Power BI project presents an interactive **Sales Dashboard** that enables data-driven insights into sales performance across various dimensions such as time, product, region, and customer segment. It is designed to help stakeholders make informed decisions by visualizing KPIs and trends clearly and effectively.
+This Power BI project presents an interactive **Sales Dashboard** that enables data-driven insights into sales performance across various dimensions such as time, product, region, and customer segment.
 
 ## Objectives
 
@@ -24,11 +24,10 @@ The data used in this dashboard includes sales-related metrics and dimensions su
 - Region and Country
 - Order Date and Shipping Date
 
-(Data can be replaced or updated by editing the dataset in Power BI Desktop.)
 
 ## Key Visuals
 
-- **Total Sales & Profit KPIs**
+- **Total Sales & Profit **
 - **Sales Trend Over Time** (line chart)
 - **Sales by Region** (map or bar chart)
 - **Top Products by Sales** (bar chart)
@@ -42,12 +41,7 @@ The data used in this dashboard includes sales-related metrics and dimensions su
 - DAX for calculated measures and KPIs
 - Power Query for data transformation
 
-## How to Use
 
-1. Download and install [Power BI Desktop](https://powerbi.microsoft.com/desktop/).
-2. Open the `Sales dashboard.pbix` file.
-3. Interact with the visuals by using slicers and filters.
-4. To update data, go to **Home > Transform Data** and modify the query or load a new dataset.
 
 ## Insights & Benefits
 
@@ -56,9 +50,6 @@ The data used in this dashboard includes sales-related metrics and dimensions su
 - Improve decision-making with visualized metrics.
 - Optimize product strategy based on sales performance.
 
-## Credits
-
-Created by [Your Name]  
-Internship/Project work for [Company/Institute if applicable]
-
----Parag
+#Credits
+Parag
+--
